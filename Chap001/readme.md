@@ -8,6 +8,7 @@
 - [Ex06: Locales in Properties Files](Ex06)
 - [Ex07: Customize POJO Initialization and Destruction](Ex07)
 - [Ex08: Post-processors to Validate and Modify POJOs](Ex08)
+- [Ex09: Create POJOs with a Factory](Ex09)
 
 
 
