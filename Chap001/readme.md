@@ -7,6 +7,7 @@
 - [Ex05: Use Properties File Data to Set Up POJO Instantiation Values](Ex05)
 - [Ex06: Locales in Properties Files](Ex06)
 - [Ex07: Customize POJO Initialization and Destruction](Ex07)
+- [Ex08: Post-processors to Validate and Modify POJOs](Ex08)
 
 
 
